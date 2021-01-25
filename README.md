@@ -20,6 +20,8 @@ List of projects:
 Aktueller Stand (25.01.20):
 
 Momentan versuche ich noch den Workflow mit Git/Github zu verstehen.
+=> Das Grundkonzept wie ich ein Repo anlege und sowohl remote als auch local
+immer auf dem selben Stand bin ist mir jetzt klar.
 
 
 
