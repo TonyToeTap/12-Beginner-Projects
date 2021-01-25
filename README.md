@@ -17,5 +17,9 @@ List of projects:
 11) Photo Manipulation in Python
 12) Markov Chain Text Composer
 
+Aktueller Stand (25.01.20):
+
+Momentan versuche ich noch den Workflow mit Git/Github zu verstehen.
+
 
 
